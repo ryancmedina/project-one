@@ -1,0 +1,501 @@
+County,State,Population_Density,Age_Group,Gender,Race,Education_Level,Infection_Rate
+County_1,Florida,3508,65+,Female,Other,Postgraduate,0.3748
+County_2,Arizona,5861,41-65,Female,Hispanic,Bachelor's Degree,0.0991
+County_3,California,1271,41-65,Male,White,Bachelor's Degree,0.2751
+County_4,California,9374,18-40,Male,Asian,Postgraduate,0.0354
+County_5,Illinois,4368,0-17,Female,Hispanic,Some College,0.4946
+County_6,Texas,2712,0-17,Male,Hispanic,High School,0.3245
+County_7,Illinois,6702,18-40,Male,Black,Some College,0.463
+County_8,Arizona,8718,41-65,Female,White,Postgraduate,0.3524
+County_9,Florida,6571,65+,Female,Hispanic,Bachelor's Degree,0.3716
+County_10,Texas,6010,41-65,Female,Other,High School,0.4238
+County_11,New York,1045,0-17,Male,Black,Postgraduate,0.1469
+County_12,Arizona,1653,18-40,Female,Asian,Some College,0.2759
+County_13,Illinois,5851,65+,Male,White,High School,0.3213
+County_14,Texas,8078,65+,Female,Other,Some College,0.3073
+County_15,California,5804,0-17,Male,Hispanic,Some College,0.2282
+County_16,Illinois,2971,41-65,Male,Asian,Some College,0.2619
+County_17,Arizona,8631,65+,Male,Asian,High School,0.2822
+County_18,Texas,383,18-40,Male,White,High School,0.189
+County_19,Arizona,3199,18-40,Female,Asian,Bachelor's Degree,0.3072
+County_20,New York,990,0-17,Female,Asian,Bachelor's Degree,0.4326
+County_21,New York,6195,65+,Male,White,Bachelor's Degree,0.1894
+County_22,Texas,7067,65+,Female,Black,Bachelor's Degree,0.0859
+County_23,New York,7245,0-17,Female,White,Postgraduate,0.2626
+County_24,Arizona,3075,41-65,Male,Other,Bachelor's Degree,0.2218
+County_25,Texas,110,0-17,Male,Asian,Some College,0.4642
+County_26,Illinois,5075,18-40,Male,Hispanic,Postgraduate,0.0994
+County_27,New York,2919,18-40,Male,Asian,Some College,0.2927
+County_28,Florida,9174,0-17,Female,Hispanic,Postgraduate,0.4051
+County_29,Arizona,1679,0-17,Male,Hispanic,Bachelor's Degree,0.2126
+County_30,Texas,8628,41-65,Male,Black,High School,0.2809
+County_31,Florida,5992,0-17,Male,Other,Postgraduate,0.3925
+County_32,Florida,4513,0-17,Male,Other,Bachelor's Degree,0.0933
+County_33,Florida,4838,0-17,Female,White,Some College,0.0585
+County_34,Illinois,2389,18-40,Female,White,Bachelor's Degree,0.1625
+County_35,Arizona,267,65+,Female,Asian,High School,0.3833
+County_36,Texas,6417,18-40,Male,Other,Bachelor's Degree,0.0301
+County_37,Arizona,4694,65+,Male,Other,Postgraduate,0.4366
+County_38,New York,4052,65+,Male,White,Postgraduate,0.0124
+County_39,California,3557,41-65,Female,Hispanic,High School,0.0597
+County_40,Illinois,8078,18-40,Male,Asian,Bachelor's Degree,0.2102
+County_41,Florida,9009,0-17,Male,Other,Postgraduate,0.0392
+County_42,Texas,2027,65+,Male,Black,High School,0.1767
+County_43,Illinois,946,18-40,Female,Black,Some College,0.0891
+County_44,Illinois,482,65+,Female,White,Some College,0.3932
+County_45,New York,8559,65+,Male,Other,High School,0.398
+County_46,Florida,8322,18-40,Female,Other,Postgraduate,0.0191
+County_47,New York,1410,18-40,Male,White,Some College,0.105
+County_48,Texas,7072,65+,Male,Asian,High School,0.1295
+County_49,Arizona,7267,41-65,Male,Black,Some College,0.4397
+County_50,Illinois,7005,41-65,Male,Hispanic,High School,0.2045
+County_51,Florida,8185,41-65,Male,Hispanic,Postgraduate,0.285
+County_52,Florida,7758,65+,Female,Black,Some College,0.0151
+County_53,New York,6035,65+,Male,White,Some College,0.1564
+County_54,Illinois,4225,41-65,Female,White,Postgraduate,0.1226
+County_55,Texas,5988,0-17,Female,White,Bachelor's Degree,0.0547
+County_56,California,9247,65+,Female,Hispanic,Bachelor's Degree,0.296
+County_57,Florida,6947,65+,Male,Other,Bachelor's Degree,0.0624
+County_58,Illinois,3209,41-65,Female,Asian,High School,0.0637
+County_59,Texas,4868,41-65,Male,Hispanic,Postgraduate,0.0615
+County_60,Texas,4101,41-65,Male,Asian,Some College,0.4049
+County_61,New York,3975,0-17,Male,Asian,Some College,0.3561
+County_62,Florida,5390,65+,Female,White,Bachelor's Degree,0.0465
+County_63,Texas,8406,18-40,Female,Asian,High School,0.0137
+County_64,Illinois,1001,0-17,Female,Other,High School,0.349
+County_65,Illinois,1234,41-65,Male,Asian,Postgraduate,0.2648
+County_66,Florida,2367,18-40,Female,Asian,High School,0.3701
+County_67,New York,1192,65+,Male,Hispanic,Postgraduate,0.3212
+County_68,Arizona,6042,18-40,Male,Black,Some College,0.4705
+County_69,New York,5989,18-40,Male,White,Postgraduate,0.4806
+County_70,New York,8631,0-17,Female,Asian,High School,0.2859
+County_71,Florida,981,41-65,Female,Black,Postgraduate,0.2704
+County_72,Florida,7914,65+,Male,White,Bachelor's Degree,0.2443
+County_73,New York,1035,65+,Female,Hispanic,High School,0.2914
+County_74,Arizona,5231,65+,Male,Asian,Bachelor's Degree,0.0244
+County_75,Florida,3028,65+,Male,Hispanic,Postgraduate,0.4605
+County_76,Florida,3166,65+,Male,Hispanic,High School,0.2813
+County_77,Illinois,8028,65+,Female,Black,Bachelor's Degree,0.063
+County_78,New York,2334,65+,Male,Asian,Some College,0.1317
+County_79,New York,2486,0-17,Male,White,High School,0.2063
+County_80,Florida,7286,0-17,Female,Black,High School,0.1498
+County_81,Illinois,9387,0-17,Female,Asian,Postgraduate,0.1159
+County_82,Texas,7501,65+,Male,White,Postgraduate,0.0547
+County_83,Texas,7997,18-40,Male,White,Some College,0.1731
+County_84,Florida,2373,0-17,Female,Asian,Bachelor's Degree,0.15
+County_85,Texas,2736,18-40,Female,Black,Some College,0.0592
+County_86,Florida,3631,18-40,Female,Asian,Postgraduate,0.2342
+County_87,Florida,6329,18-40,Male,Black,High School,0.4462
+County_88,Texas,5402,65+,Male,Hispanic,Some College,0.138
+County_89,New York,9189,0-17,Male,Hispanic,Some College,0.0759
+County_90,New York,5567,41-65,Female,Asian,Bachelor's Degree,0.2085
+County_91,Texas,5075,0-17,Male,Asian,Some College,0.3444
+County_92,California,3975,18-40,Male,White,Postgraduate,0.2051
+County_93,California,4810,0-17,Female,Other,Some College,0.0167
+County_94,Florida,1832,0-17,Male,Other,Postgraduate,0.2257
+County_95,Texas,5443,41-65,Female,Black,Some College,0.1947
+County_96,New York,408,65+,Male,Other,Bachelor's Degree,0.1703
+County_97,Arizona,5028,65+,Female,White,Bachelor's Degree,0.3387
+County_98,New York,9952,41-65,Female,Asian,Postgraduate,0.2311
+County_99,Illinois,4207,18-40,Female,White,High School,0.0155
+County_100,New York,2411,0-17,Male,White,Bachelor's Degree,0.2993
+County_101,Illinois,2150,18-40,Female,Other,Bachelor's Degree,0.2757
+County_102,California,3606,41-65,Female,Asian,Some College,0.1076
+County_103,Florida,4177,0-17,Female,White,Bachelor's Degree,0.3612
+County_104,Illinois,5604,65+,Female,Hispanic,Bachelor's Degree,0.4144
+County_105,California,6274,0-17,Female,Black,Bachelor's Degree,0.178
+County_106,Texas,5913,18-40,Male,Other,Postgraduate,0.1661
+County_107,Florida,7796,65+,Female,White,Some College,0.4944
+County_108,Illinois,5580,65+,Male,Hispanic,Postgraduate,0.3087
+County_109,Florida,5934,0-17,Male,Asian,Some College,0.0212
+County_110,Florida,7221,41-65,Female,White,Postgraduate,0.1668
+County_111,Arizona,361,65+,Male,Asian,Bachelor's Degree,0.0341
+County_112,Florida,1883,65+,Female,Hispanic,Bachelor's Degree,0.4605
+County_113,Illinois,3326,41-65,Female,Other,Some College,0.376
+County_114,New York,3996,41-65,Female,Other,High School,0.4494
+County_115,Arizona,3019,65+,Male,Hispanic,Postgraduate,0.0436
+County_116,California,9937,18-40,Female,Black,Bachelor's Degree,0.4296
+County_117,Arizona,971,18-40,Male,White,Some College,0.3471
+County_118,Florida,4354,18-40,Male,Other,High School,0.1654
+County_119,New York,9038,41-65,Female,Black,Postgraduate,0.2975
+County_120,Texas,6256,18-40,Female,White,Postgraduate,0.1432
+County_121,Texas,5274,0-17,Male,White,High School,0.4424
+County_122,New York,9218,65+,Female,White,High School,0.1411
+County_123,Arizona,5669,65+,Male,Asian,Bachelor's Degree,0.298
+County_124,California,4408,41-65,Male,Asian,High School,0.0656
+County_125,California,8977,65+,Female,Black,Bachelor's Degree,0.2344
+County_126,California,764,41-65,Female,Black,Bachelor's Degree,0.3221
+County_127,Arizona,4684,65+,Female,Other,Postgraduate,0.3833
+County_128,Arizona,4398,41-65,Male,White,Some College,0.2447
+County_129,Texas,2668,0-17,Female,White,Bachelor's Degree,0.0496
+County_130,Illinois,7797,18-40,Male,Asian,Bachelor's Degree,0.0975
+County_131,Florida,2367,0-17,Female,Other,Bachelor's Degree,0.3987
+County_132,Florida,4288,0-17,Male,Hispanic,Some College,0.4592
+County_133,Arizona,6091,41-65,Male,White,Postgraduate,0.4652
+County_134,New York,6369,65+,Female,Asian,Postgraduate,0.3855
+County_135,New York,1235,18-40,Male,Hispanic,Bachelor's Degree,0.0196
+County_136,New York,3798,18-40,Male,White,High School,0.3674
+County_137,California,5590,41-65,Female,Asian,Some College,0.4347
+County_138,California,6891,18-40,Female,Hispanic,Postgraduate,0.4179
+County_139,California,4478,41-65,Male,White,High School,0.227
+County_140,Illinois,8861,65+,Male,Asian,High School,0.4245
+County_141,Florida,5338,65+,Male,Asian,High School,0.1201
+County_142,Florida,3154,41-65,Female,White,High School,0.0189
+County_143,Illinois,2849,18-40,Male,White,Some College,0.1886
+County_144,Illinois,4528,18-40,Male,Asian,High School,0.4809
+County_145,Texas,5440,18-40,Male,Asian,Bachelor's Degree,0.2489
+County_146,Texas,4632,65+,Female,Other,High School,0.4537
+County_147,New York,3200,0-17,Male,Black,Bachelor's Degree,0.0162
+County_148,New York,4697,41-65,Male,Asian,Postgraduate,0.4035
+County_149,Arizona,8132,41-65,Female,Other,Some College,0.3795
+County_150,New York,2975,0-17,Male,Asian,Some College,0.1155
+County_151,Texas,3181,65+,Male,Hispanic,Postgraduate,0.0829
+County_152,New York,7118,18-40,Female,White,High School,0.0775
+County_153,New York,3214,65+,Female,Asian,High School,0.1128
+County_154,New York,7366,41-65,Female,Hispanic,Postgraduate,0.4022
+County_155,New York,7696,41-65,Female,Asian,Some College,0.1343
+County_156,Texas,7325,18-40,Female,White,Bachelor's Degree,0.0428
+County_157,Texas,2113,41-65,Female,Asian,Some College,0.0356
+County_158,Texas,7725,65+,Male,Hispanic,Bachelor's Degree,0.1762
+County_159,Illinois,5100,65+,Male,Black,Bachelor's Degree,0.1804
+County_160,New York,5742,18-40,Female,Hispanic,Bachelor's Degree,0.0114
+County_161,Arizona,4612,18-40,Male,Other,Bachelor's Degree,0.0265
+County_162,Florida,5271,65+,Female,Other,Bachelor's Degree,0.1567
+County_163,Arizona,6715,41-65,Female,Hispanic,Bachelor's Degree,0.1167
+County_164,New York,1212,18-40,Female,Other,Bachelor's Degree,0.4116
+County_165,New York,8113,41-65,Male,Black,Some College,0.0678
+County_166,California,3929,18-40,Female,Other,Bachelor's Degree,0.1882
+County_167,California,3315,41-65,Female,Other,High School,0.0761
+County_168,Arizona,9593,41-65,Female,Other,Postgraduate,0.2008
+County_169,California,915,41-65,Male,Black,Bachelor's Degree,0.2562
+County_170,California,1390,65+,Female,Other,Some College,0.2842
+County_171,California,3109,18-40,Male,Black,Bachelor's Degree,0.2527
+County_172,Arizona,9494,18-40,Male,Other,Bachelor's Degree,0.4967
+County_173,California,6272,0-17,Male,Black,Postgraduate,0.175
+County_174,California,8409,18-40,Male,Other,High School,0.4682
+County_175,Illinois,5646,41-65,Male,Black,Postgraduate,0.3924
+County_176,California,3957,18-40,Female,Black,Bachelor's Degree,0.4963
+County_177,California,5638,41-65,Male,Other,Some College,0.4919
+County_178,Florida,370,41-65,Male,Asian,Postgraduate,0.1225
+County_179,Arizona,4422,65+,Male,Other,Some College,0.1304
+County_180,Arizona,5208,18-40,Female,White,Bachelor's Degree,0.3337
+County_181,New York,3016,0-17,Female,Black,Postgraduate,0.2753
+County_182,Florida,1748,0-17,Male,Hispanic,Some College,0.2014
+County_183,California,4099,0-17,Female,Asian,Postgraduate,0.1358
+County_184,New York,6126,65+,Male,Black,Postgraduate,0.3163
+County_185,Arizona,2065,0-17,Female,Hispanic,Postgraduate,0.3814
+County_186,Texas,749,41-65,Female,Black,Some College,0.4018
+County_187,Arizona,2065,41-65,Female,Hispanic,Some College,0.4475
+County_188,Texas,6330,41-65,Female,Hispanic,Bachelor's Degree,0.1311
+County_189,Arizona,1856,18-40,Male,Hispanic,Some College,0.3629
+County_190,California,8350,41-65,Male,White,Bachelor's Degree,0.0891
+County_191,Arizona,650,18-40,Male,Black,Postgraduate,0.0424
+County_192,Arizona,2046,41-65,Male,White,Postgraduate,0.1212
+County_193,Florida,3257,0-17,Female,Black,Some College,0.1799
+County_194,Texas,2987,0-17,Male,Asian,Bachelor's Degree,0.2732
+County_195,Florida,5299,41-65,Female,Hispanic,Bachelor's Degree,0.2692
+County_196,Arizona,9954,41-65,Male,Black,Bachelor's Degree,0.1358
+County_197,Arizona,8557,0-17,Female,White,Postgraduate,0.3876
+County_198,California,7456,41-65,Female,White,Bachelor's Degree,0.0574
+County_199,Arizona,9202,18-40,Female,Other,Postgraduate,0.4521
+County_200,New York,3429,41-65,Male,Asian,Postgraduate,0.1484
+County_201,New York,5963,41-65,Male,Black,Some College,0.4221
+County_202,Florida,2286,41-65,Male,Black,Postgraduate,0.25
+County_203,Illinois,4898,65+,Male,White,Bachelor's Degree,0.2849
+County_204,Arizona,2919,0-17,Male,Black,Bachelor's Degree,0.4489
+County_205,Arizona,7724,41-65,Female,Other,Postgraduate,0.418
+County_206,California,9785,65+,Female,Hispanic,Some College,0.2731
+County_207,Florida,7707,65+,Male,Asian,Bachelor's Degree,0.4577
+County_208,Illinois,8213,0-17,Female,Asian,Some College,0.4862
+County_209,Florida,7030,18-40,Female,Black,High School,0.4799
+County_210,New York,4503,0-17,Female,Black,High School,0.3462
+County_211,Illinois,1193,65+,Male,Other,Postgraduate,0.2756
+County_212,New York,1867,18-40,Female,White,High School,0.4766
+County_213,Texas,2053,0-17,Female,Other,Postgraduate,0.3542
+County_214,Illinois,8090,0-17,Male,Hispanic,Bachelor's Degree,0.4478
+County_215,Illinois,9375,41-65,Female,White,Postgraduate,0.0918
+County_216,Arizona,5113,41-65,Female,Hispanic,High School,0.2985
+County_217,Illinois,1829,0-17,Female,Other,Postgraduate,0.404
+County_218,California,5749,41-65,Male,Asian,Postgraduate,0.4892
+County_219,Illinois,5168,41-65,Male,Other,Some College,0.0467
+County_220,Arizona,6628,41-65,Female,Asian,Some College,0.3321
+County_221,New York,6408,41-65,Male,Asian,High School,0.226
+County_222,Arizona,1981,18-40,Female,Hispanic,High School,0.3484
+County_223,California,8168,18-40,Male,Black,Bachelor's Degree,0.2596
+County_224,New York,5104,65+,Female,Hispanic,Bachelor's Degree,0.1957
+County_225,Texas,4091,18-40,Female,White,Some College,0.085
+County_226,Texas,1917,41-65,Male,Black,Bachelor's Degree,0.0884
+County_227,Arizona,2184,18-40,Female,White,Some College,0.3037
+County_228,Texas,3063,41-65,Female,White,Some College,0.2458
+County_229,Texas,6552,18-40,Female,Asian,Postgraduate,0.0444
+County_230,Texas,6730,65+,Male,Black,Bachelor's Degree,0.2018
+County_231,Texas,5860,0-17,Female,White,High School,0.4816
+County_232,Arizona,1653,41-65,Male,White,Bachelor's Degree,0.2926
+County_233,New York,4972,18-40,Female,Hispanic,Postgraduate,0.1259
+County_234,Arizona,3440,18-40,Female,Other,High School,0.1154
+County_235,Florida,6761,65+,Female,Other,Postgraduate,0.0356
+County_236,Texas,3811,0-17,Female,Asian,Some College,0.0789
+County_237,Texas,2478,41-65,Male,Black,Bachelor's Degree,0.0844
+County_238,Florida,1255,65+,Female,Black,Bachelor's Degree,0.4108
+County_239,New York,4354,0-17,Male,White,High School,0.1448
+County_240,Arizona,2157,18-40,Female,Hispanic,High School,0.2782
+County_241,California,6460,41-65,Female,Black,Some College,0.2831
+County_242,Florida,1244,0-17,Female,Other,Postgraduate,0.3401
+County_243,Texas,9917,18-40,Male,Other,Some College,0.1947
+County_244,Illinois,5810,0-17,Male,Black,Postgraduate,0.4482
+County_245,Texas,572,41-65,Male,Asian,Postgraduate,0.4896
+County_246,New York,7042,18-40,Female,White,Postgraduate,0.341
+County_247,Florida,8927,0-17,Male,Asian,Some College,0.0543
+County_248,Texas,4978,65+,Female,Asian,Bachelor's Degree,0.0183
+County_249,Texas,3682,0-17,Female,Black,High School,0.0128
+County_250,California,4225,0-17,Female,Black,High School,0.4537
+County_251,Texas,9920,41-65,Female,White,High School,0.0308
+County_252,New York,7459,18-40,Male,Hispanic,High School,0.2079
+County_253,Florida,8005,41-65,Female,Asian,Postgraduate,0.4064
+County_254,California,5890,65+,Female,Asian,Bachelor's Degree,0.0637
+County_255,Florida,7795,0-17,Female,White,High School,0.458
+County_256,Arizona,4666,0-17,Female,Asian,Bachelor's Degree,0.3209
+County_257,New York,7872,41-65,Male,Asian,High School,0.367
+County_258,Illinois,4899,41-65,Female,Asian,Some College,0.067
+County_259,California,3980,65+,Male,White,Postgraduate,0.1306
+County_260,Illinois,2460,18-40,Male,Other,Bachelor's Degree,0.2277
+County_261,New York,3939,18-40,Male,Asian,Postgraduate,0.2472
+County_262,Arizona,4808,0-17,Male,Asian,High School,0.0213
+County_263,California,6713,65+,Female,Black,Bachelor's Degree,0.2717
+County_264,Texas,6188,18-40,Female,Black,Some College,0.2661
+County_265,Arizona,8220,0-17,Female,Other,High School,0.1465
+County_266,Arizona,498,18-40,Male,Other,High School,0.0576
+County_267,Texas,528,18-40,Female,Other,Some College,0.1835
+County_268,Florida,540,18-40,Female,Hispanic,High School,0.0313
+County_269,New York,6628,41-65,Male,White,Postgraduate,0.1472
+County_270,Texas,988,18-40,Male,Other,Some College,0.4625
+County_271,Florida,5325,0-17,Male,Asian,High School,0.1542
+County_272,Illinois,1206,41-65,Male,Asian,Bachelor's Degree,0.4967
+County_273,Arizona,8631,41-65,Male,Other,Postgraduate,0.2516
+County_274,New York,4641,41-65,Male,Hispanic,Postgraduate,0.0893
+County_275,Florida,7692,41-65,Male,Other,Postgraduate,0.1652
+County_276,Arizona,3054,18-40,Female,Black,Some College,0.0489
+County_277,Florida,6533,18-40,Male,Black,Bachelor's Degree,0.1514
+County_278,Arizona,9324,41-65,Male,Other,Some College,0.2766
+County_279,Illinois,8272,65+,Male,White,Bachelor's Degree,0.2856
+County_280,California,5123,41-65,Male,Black,Postgraduate,0.3482
+County_281,Texas,5595,65+,Male,White,Bachelor's Degree,0.1347
+County_282,Texas,104,0-17,Female,White,Postgraduate,0.2707
+County_283,New York,2774,65+,Female,Other,High School,0.265
+County_284,Florida,6087,65+,Female,Hispanic,Bachelor's Degree,0.4987
+County_285,Florida,8722,41-65,Male,Other,Bachelor's Degree,0.4693
+County_286,Illinois,9118,18-40,Female,Asian,Bachelor's Degree,0.1949
+County_287,California,4344,65+,Male,Hispanic,Bachelor's Degree,0.3626
+County_288,Arizona,3343,18-40,Female,Hispanic,High School,0.0618
+County_289,Texas,8799,65+,Male,Asian,Bachelor's Degree,0.3155
+County_290,New York,4785,65+,Female,Black,Bachelor's Degree,0.3924
+County_291,Texas,5095,18-40,Male,Hispanic,Bachelor's Degree,0.4748
+County_292,New York,1338,65+,Male,Asian,Postgraduate,0.2712
+County_293,New York,1263,18-40,Female,Asian,Bachelor's Degree,0.47
+County_294,California,8461,18-40,Female,Other,Some College,0.1618
+County_295,New York,5101,18-40,Male,Hispanic,High School,0.2506
+County_296,Illinois,7513,0-17,Male,Black,Bachelor's Degree,0.3001
+County_297,Texas,3244,41-65,Female,Black,Bachelor's Degree,0.3475
+County_298,Florida,2336,41-65,Male,Hispanic,Postgraduate,0.034
+County_299,California,9895,65+,Female,White,Postgraduate,0.0995
+County_300,Illinois,2593,41-65,Male,Asian,High School,0.4457
+County_301,Illinois,7140,65+,Male,Hispanic,Bachelor's Degree,0.371
+County_302,Florida,4852,65+,Male,Other,Postgraduate,0.196
+County_303,Florida,1847,65+,Male,White,Some College,0.1418
+County_304,Illinois,295,65+,Male,Asian,Postgraduate,0.2541
+County_305,New York,6694,0-17,Male,Other,High School,0.354
+County_306,Texas,184,18-40,Male,White,High School,0.3103
+County_307,California,427,65+,Male,Black,High School,0.0181
+County_308,California,4987,18-40,Male,White,Postgraduate,0.3285
+County_309,Florida,8623,41-65,Male,Other,Some College,0.4488
+County_310,Arizona,8056,0-17,Female,Other,Bachelor's Degree,0.3771
+County_311,Arizona,1287,18-40,Male,Asian,Bachelor's Degree,0.1566
+County_312,New York,5859,41-65,Male,White,Postgraduate,0.3549
+County_313,California,7216,18-40,Male,White,High School,0.4842
+County_314,Arizona,4739,41-65,Male,Black,High School,0.3779
+County_315,Texas,8696,65+,Female,Black,Some College,0.0151
+County_316,Florida,4827,0-17,Female,Hispanic,Postgraduate,0.2925
+County_317,Illinois,4732,41-65,Female,White,Some College,0.2821
+County_318,Arizona,3052,0-17,Male,Other,High School,0.1365
+County_319,Texas,2478,65+,Female,Other,High School,0.2368
+County_320,Texas,6073,18-40,Female,Hispanic,Some College,0.4094
+County_321,California,8834,41-65,Male,Black,Postgraduate,0.34
+County_322,New York,4935,0-17,Male,Black,Postgraduate,0.2417
+County_323,Florida,4621,41-65,Male,Hispanic,Postgraduate,0.0994
+County_324,Texas,606,0-17,Male,White,Postgraduate,0.3071
+County_325,New York,2510,18-40,Male,Asian,Some College,0.1855
+County_326,Texas,1548,65+,Male,White,Postgraduate,0.2146
+County_327,Arizona,3967,0-17,Female,Black,Some College,0.2514
+County_328,Florida,3472,65+,Male,Other,High School,0.4468
+County_329,Florida,9424,41-65,Male,Hispanic,Postgraduate,0.374
+County_330,Illinois,221,65+,Male,Other,Some College,0.1795
+County_331,Arizona,4377,18-40,Female,White,High School,0.2125
+County_332,Arizona,2572,65+,Female,Other,Postgraduate,0.2859
+County_333,New York,3099,18-40,Male,Black,High School,0.1712
+County_334,Arizona,5081,41-65,Male,Asian,Bachelor's Degree,0.4051
+County_335,New York,4339,65+,Male,Asian,Bachelor's Degree,0.489
+County_336,Illinois,8464,65+,Female,Hispanic,High School,0.4993
+County_337,Arizona,4032,18-40,Female,Hispanic,High School,0.1931
+County_338,Arizona,2269,18-40,Female,Hispanic,Bachelor's Degree,0.1467
+County_339,New York,2576,0-17,Female,White,Bachelor's Degree,0.124
+County_340,Arizona,6463,0-17,Female,Other,Some College,0.0886
+County_341,Texas,946,18-40,Female,White,Postgraduate,0.0702
+County_342,California,7621,65+,Female,Asian,Bachelor's Degree,0.1777
+County_343,New York,893,65+,Male,White,High School,0.2682
+County_344,Illinois,6513,65+,Female,Black,Some College,0.0764
+County_345,Arizona,6872,18-40,Male,White,Postgraduate,0.2307
+County_346,Texas,5508,65+,Female,Asian,Bachelor's Degree,0.2443
+County_347,California,8120,18-40,Female,Other,Bachelor's Degree,0.1587
+County_348,New York,9102,0-17,Female,White,High School,0.4887
+County_349,Texas,7718,65+,Female,Black,Some College,0.3166
+County_350,Illinois,3941,0-17,Male,Other,High School,0.0736
+County_351,New York,4832,65+,Male,Asian,Postgraduate,0.3886
+County_352,New York,4316,65+,Female,White,High School,0.0311
+County_353,California,5906,65+,Female,White,Postgraduate,0.1988
+County_354,Texas,9533,0-17,Male,Black,Bachelor's Degree,0.0106
+County_355,New York,1644,41-65,Female,White,Bachelor's Degree,0.4504
+County_356,California,2350,0-17,Female,Black,Bachelor's Degree,0.301
+County_357,New York,9567,18-40,Male,Hispanic,Some College,0.3599
+County_358,Texas,7009,65+,Female,Hispanic,High School,0.2928
+County_359,Arizona,4636,65+,Male,White,High School,0.1899
+County_360,Arizona,3085,41-65,Male,Asian,Some College,0.1084
+County_361,Florida,6654,65+,Female,White,Some College,0.4545
+County_362,California,8418,41-65,Female,Hispanic,Some College,0.3364
+County_363,Arizona,9457,18-40,Female,Black,Bachelor's Degree,0.1168
+County_364,New York,5857,18-40,Female,White,High School,0.3557
+County_365,Texas,8498,41-65,Female,Other,Bachelor's Degree,0.4396
+County_366,Florida,4629,0-17,Male,Asian,Bachelor's Degree,0.1112
+County_367,California,4538,0-17,Female,Asian,Some College,0.4966
+County_368,Florida,6532,65+,Female,Hispanic,High School,0.0767
+County_369,California,4283,41-65,Male,White,Bachelor's Degree,0.3313
+County_370,New York,7589,41-65,Male,Other,Postgraduate,0.2519
+County_371,Illinois,4790,65+,Female,Asian,High School,0.2059
+County_372,Illinois,3578,41-65,Female,Asian,High School,0.4687
+County_373,New York,5652,41-65,Female,Asian,High School,0.0912
+County_374,Texas,7852,41-65,Male,White,Some College,0.4302
+County_375,Texas,5197,65+,Male,Asian,High School,0.1739
+County_376,Arizona,871,41-65,Female,Other,Postgraduate,0.0625
+County_377,Texas,3066,41-65,Male,White,High School,0.3664
+County_378,Texas,6748,41-65,Male,Other,Bachelor's Degree,0.4279
+County_379,Florida,6940,0-17,Male,White,Some College,0.1768
+County_380,California,2420,41-65,Female,Hispanic,Some College,0.3714
+County_381,Florida,5591,0-17,Male,White,Some College,0.3869
+County_382,California,9668,41-65,Male,Hispanic,Postgraduate,0.2914
+County_383,Florida,6369,18-40,Female,Black,Postgraduate,0.4571
+County_384,California,4412,41-65,Male,Hispanic,High School,0.1817
+County_385,California,1714,0-17,Female,Other,Bachelor's Degree,0.4813
+County_386,Illinois,9370,0-17,Male,White,Bachelor's Degree,0.0705
+County_387,California,8709,65+,Female,Other,Postgraduate,0.345
+County_388,California,7615,0-17,Male,White,Bachelor's Degree,0.3528
+County_389,Arizona,7254,41-65,Female,Black,Postgraduate,0.496
+County_390,California,2062,18-40,Male,White,Bachelor's Degree,0.288
+County_391,Arizona,4271,0-17,Male,White,Some College,0.3807
+County_392,Texas,3873,41-65,Female,Black,Bachelor's Degree,0.4981
+County_393,Florida,821,0-17,Male,Asian,Postgraduate,0.0805
+County_394,Texas,4193,18-40,Female,Asian,High School,0.0629
+County_395,New York,5255,0-17,Female,Hispanic,High School,0.1962
+County_396,Arizona,5357,41-65,Female,Other,Bachelor's Degree,0.0809
+County_397,Arizona,9609,65+,Female,Hispanic,Postgraduate,0.4393
+County_398,Arizona,637,41-65,Female,Other,High School,0.134
+County_399,New York,8073,0-17,Male,Black,Postgraduate,0.1714
+County_400,Arizona,3776,65+,Female,Hispanic,Bachelor's Degree,0.0977
+County_401,Arizona,4193,41-65,Male,Hispanic,Postgraduate,0.1095
+County_402,Texas,3370,0-17,Female,Asian,Bachelor's Degree,0.1935
+County_403,New York,4511,0-17,Male,Black,High School,0.3734
+County_404,New York,2864,0-17,Female,White,Postgraduate,0.1645
+County_405,Texas,4918,0-17,Female,Black,High School,0.3754
+County_406,Illinois,4829,65+,Male,White,Postgraduate,0.3278
+County_407,New York,7635,0-17,Male,Hispanic,Postgraduate,0.4404
+County_408,Illinois,1677,0-17,Male,Other,High School,0.2838
+County_409,Arizona,298,0-17,Male,Other,Some College,0.0115
+County_410,Texas,7018,41-65,Male,Asian,Postgraduate,0.0738
+County_411,Texas,6779,18-40,Female,White,Bachelor's Degree,0.3965
+County_412,Illinois,3212,41-65,Female,Other,Some College,0.2314
+County_413,New York,3946,18-40,Male,Black,Some College,0.4611
+County_414,New York,8054,41-65,Female,Hispanic,Postgraduate,0.0389
+County_415,Texas,5433,41-65,Male,Black,Bachelor's Degree,0.461
+County_416,California,7399,18-40,Male,Other,Bachelor's Degree,0.1099
+County_417,Illinois,8529,18-40,Female,Asian,Some College,0.4391
+County_418,Florida,7169,41-65,Female,Other,High School,0.3373
+County_419,California,2436,41-65,Female,Asian,High School,0.4641
+County_420,Texas,5742,18-40,Male,Other,Some College,0.4008
+County_421,Illinois,7769,65+,Female,Hispanic,High School,0.4759
+County_422,Florida,7007,0-17,Female,White,Some College,0.0117
+County_423,Texas,6374,0-17,Male,Asian,Bachelor's Degree,0.1473
+County_424,California,6468,41-65,Male,Asian,High School,0.2752
+County_425,New York,8924,0-17,Female,Other,High School,0.3116
+County_426,Arizona,9481,18-40,Female,Other,Bachelor's Degree,0.2265
+County_427,Texas,3140,65+,Female,Black,Bachelor's Degree,0.0907
+County_428,California,2837,18-40,Female,Hispanic,High School,0.3952
+County_429,Illinois,6181,18-40,Female,White,Some College,0.3683
+County_430,Illinois,2612,0-17,Female,Other,High School,0.3658
+County_431,Arizona,7013,41-65,Male,Other,High School,0.2045
+County_432,Florida,9147,65+,Male,Asian,High School,0.3311
+County_433,Illinois,325,0-17,Male,Asian,Postgraduate,0.1682
+County_434,Florida,5512,18-40,Male,Black,Some College,0.4093
+County_435,Illinois,4800,65+,Male,Asian,Bachelor's Degree,0.3265
+County_436,Illinois,9461,65+,Male,Asian,Some College,0.2571
+County_437,Illinois,2126,41-65,Female,Asian,High School,0.2251
+County_438,Arizona,1344,41-65,Female,White,Postgraduate,0.3149
+County_439,Florida,1994,18-40,Male,White,Some College,0.0263
+County_440,Illinois,3798,18-40,Male,Black,High School,0.1384
+County_441,Florida,888,65+,Male,Hispanic,Some College,0.1385
+County_442,New York,1487,65+,Female,Hispanic,High School,0.2156
+County_443,Texas,1775,0-17,Male,White,Postgraduate,0.4011
+County_444,New York,9384,0-17,Female,Other,High School,0.1192
+County_445,New York,7857,41-65,Male,White,Bachelor's Degree,0.4729
+County_446,Illinois,3169,41-65,Male,Other,Postgraduate,0.0439
+County_447,Arizona,2200,0-17,Female,Hispanic,High School,0.4384
+County_448,California,1202,65+,Male,White,High School,0.1169
+County_449,Florida,6690,65+,Female,Black,Postgraduate,0.4129
+County_450,California,7676,41-65,Female,Hispanic,Some College,0.1292
+County_451,New York,3430,65+,Female,Other,Some College,0.4217
+County_452,Illinois,2356,18-40,Female,Other,Bachelor's Degree,0.063
+County_453,Illinois,7753,65+,Male,White,High School,0.0652
+County_454,Texas,849,18-40,Male,Other,Bachelor's Degree,0.1552
+County_455,New York,8723,41-65,Female,Other,Postgraduate,0.0358
+County_456,New York,1148,65+,Male,White,High School,0.4483
+County_457,Arizona,9145,41-65,Female,Asian,High School,0.3718
+County_458,New York,2860,41-65,Female,Other,Postgraduate,0.4891
+County_459,Arizona,3781,18-40,Female,Asian,Some College,0.3727
+County_460,New York,4944,65+,Female,Hispanic,Some College,0.1258
+County_461,New York,8774,0-17,Female,Black,High School,0.3578
+County_462,Illinois,7686,18-40,Male,Black,Bachelor's Degree,0.4526
+County_463,Arizona,2142,18-40,Male,Other,Postgraduate,0.3528
+County_464,Illinois,4025,0-17,Male,White,Some College,0.3592
+County_465,Arizona,3787,0-17,Male,Asian,Some College,0.1562
+County_466,Arizona,1108,65+,Female,Other,Bachelor's Degree,0.1256
+County_467,Florida,498,0-17,Male,White,Some College,0.4422
+County_468,New York,4434,18-40,Male,Other,High School,0.1235
+County_469,Arizona,7106,41-65,Female,Hispanic,Some College,0.0327
+County_470,Texas,4099,41-65,Male,Hispanic,High School,0.0366
+County_471,Florida,8191,41-65,Female,White,High School,0.0711
+County_472,Florida,6028,41-65,Female,Other,High School,0.2855
+County_473,Illinois,9194,65+,Male,Hispanic,Postgraduate,0.4155
+County_474,Florida,4922,0-17,Female,Asian,Bachelor's Degree,0.0412
+County_475,Illinois,6555,65+,Male,White,Postgraduate,0.4573
+County_476,Arizona,8838,41-65,Male,Hispanic,Bachelor's Degree,0.2092
+County_477,Texas,6182,41-65,Female,Asian,High School,0.495
+County_478,New York,7651,18-40,Male,Asian,High School,0.4768
+County_479,Illinois,7439,18-40,Male,White,High School,0.4232
+County_480,Arizona,1754,41-65,Female,White,High School,0.3213
+County_481,New York,8510,0-17,Male,Black,Postgraduate,0.4744
+County_482,Texas,8706,41-65,Male,Hispanic,Postgraduate,0.1788
+County_483,California,4785,0-17,Female,Asian,Some College,0.228
+County_484,Arizona,4627,41-65,Female,Black,Postgraduate,0.131
+County_485,California,3391,18-40,Male,Asian,Some College,0.2857
+County_486,Florida,1847,65+,Male,Asian,High School,0.3315
+County_487,Florida,8116,65+,Male,White,Bachelor's Degree,0.3479
+County_488,Florida,3706,65+,Female,Hispanic,Bachelor's Degree,0.1855
+County_489,New York,1061,18-40,Female,Hispanic,Some College,0.226
+County_490,Arizona,6387,65+,Female,White,High School,0.3923
+County_491,Arizona,8959,65+,Male,Hispanic,High School,0.3413
+County_492,Arizona,6071,41-65,Female,Hispanic,Postgraduate,0.4803
+County_493,Arizona,9003,18-40,Female,White,Some College,0.3996
+County_494,California,7459,0-17,Male,Asian,High School,0.2369
+County_495,California,1801,0-17,Female,Other,Postgraduate,0.2983
+County_496,Illinois,8090,65+,Male,Hispanic,Bachelor's Degree,0.2574
+County_497,New York,8367,41-65,Female,Hispanic,Some College,0.3008
+County_498,Arizona,9101,18-40,Female,Asian,Postgraduate,0.2822
+County_499,Arizona,8212,18-40,Female,Other,Bachelor's Degree,0.3536
+County_500,Illinois,5484,65+,Male,Hispanic,Bachelor's Degree,0.0216
